@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello world starting application",
+  "main": "server.js",
+  "dependancies": {
+	"express": "3.2.4"
+  }
+  "scripts": {
+    "test": "4",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
